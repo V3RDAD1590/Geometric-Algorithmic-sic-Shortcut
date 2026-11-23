@@ -1,5 +1,7 @@
 # Geometric Algorithmic[sic] Shortcut
-Shortcuts and property switches.
+Public repository of experimental algorithms, property switches and tomographic views of IEEE standards developed by me.
+
+[![DOI](https://zenodo.org/badge/1469208183.svg)](https://doi.org/10.5281/zenodo.24483262)
 
 ```
 ##############################################
